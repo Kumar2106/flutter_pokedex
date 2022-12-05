@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
 
 Pokedex app built with Flutter
-
+    
 ## App preview
 
 ![Home](screenshots/home.png "Home")
